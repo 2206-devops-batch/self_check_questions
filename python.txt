@@ -1,0 +1,6 @@
+How do exceptions work?
+What is a for loop? How does Python know what commands to execute?
+What is pip?
+What is the difference between scripting and programming?
+How do scopes work in Python?
+Tell me about collections and their differences in Python.

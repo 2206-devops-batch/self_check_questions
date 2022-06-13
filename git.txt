@@ -1,0 +1,2 @@
+What is git?
+What is 'git commit' and what is the next step
