@@ -4,3 +4,7 @@ What is pip?
 What is the difference between scripting and programming?
 How do scopes work in Python?
 Tell me about collections and their differences in Python.
+What is an iterator?
+What is scope and describe it's significance in Python?
+What is an argument in python?
+What are the modes of python?

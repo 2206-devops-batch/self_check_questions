@@ -2,3 +2,4 @@ What is bash?
 What are some common bash commands?
 What are conditions and how do the work in bash? What is the syntax?
 What is the purpose of flags or options in Bash?
+Describe control flow in bash scripting.
