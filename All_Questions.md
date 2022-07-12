@@ -1,4 +1,5 @@
 # Bash
+
 - What is bash?
 - What are some common bash commands?
 - What are conditions and how do the work in bash? What is the syntax?
@@ -6,11 +7,12 @@
 - Describe control flow in bash scripting.
 
 # Python
+
 - What is a list in python?
 - Is a list mutable or immutable?
 - What is a set in python how to make an empty set?
 - What is control flow in python?
-- What is pip used for? 
+- What is pip used for?
 - What is a module?
 - What is a dictionary?
 - How to access a dictionary?
@@ -18,16 +20,19 @@
 - What is a tuple?
 
 # Git
+
 - What is git?
 - What is 'git commit' and what is the next step
 - Specific commands:
 
 # Jenkins
+
 - What is Jenkins?
 - What is a Jenkinsfile?
 - What language is a Jenkinsfile written in?
 
 # Docker
+
 - What is Docker?
 - What is the difference between an image, a container, and a Dockerfile?
 - What commands might you see in a Dockerfile?
@@ -35,6 +40,7 @@
 - What is difference betweent containerization and virtualization?
 
 # Databases
+
 - What does SQL stand for?
 - What is DML?
 - What is DDM?
@@ -42,12 +48,14 @@
 - What is RBDMS?
 - What is database normalization?
 - What does multiplicity describe?
-  
+
 # CICD
+
 - What is CICD?
 - What is the process of CICD?
 
 # Cloud
+
 - What is the difference between inbound and outbound?
 - What is IAAS?
 - What is PAAS?
