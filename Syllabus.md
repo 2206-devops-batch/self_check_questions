@@ -243,7 +243,7 @@
 
 ## Week - 8 <2202-07-25 <-through-> 2202-07-29>
 
-- [ ] something fun here
+- [ ] Python Week 7 Standard Assessment
 
 ## Week - 9 <2202-08-01 <-through-> 2202-08-05>
 
